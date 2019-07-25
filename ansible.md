@@ -1,0 +1,39 @@
+### ansible_facts[‘distribution’]
+
+- Alpine
+- Altlinux
+- Amazon
+- Archlinux
+- ClearLinux
+- Coreos
+- Debian
+- Fedora
+- Gentoo
+- Mandriva
+- NA
+- OpenWrt
+- OracleLinux
+- RedHat
+- Slackware
+- SMGL
+- SUSE
+- VMwareESX
+
+### ansible_facts[‘os_family’]
+
+- AIX
+- Alpine
+- Altlinux
+- Archlinux
+- Darwin
+- Debian
+- FreeBSD
+- Gentoo
+- HP-UX
+- Mandrake
+- RedHat
+- SGML
+- Slackware
+- Solaris
+- Suse
+- Windows
